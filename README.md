@@ -9,17 +9,21 @@ This is a simple C project to manage a collection of cars. It allows you to add,
 - Search for cars by brand (case-insensitive).
 ## Compilation
 To compile the project, use the following command:
-```bashgcc main.c -o car_manager
+```
+bashgcc main.c -o car_manager
 ```
 Or for Windows:
-```bashgcc main.c -o car_manager.exe
+```
+bashgcc main.c -o car_manager.exe
 ```
 ## Usage
 Run the compiled program:
-```bash ./car_manager
+```
+bash ./car_manager
 ```
 Or for Windows:
-```bash car_manager.exe
+```
+bash car_manager.exe
 ```
 
 Follow the on-screen menu to manage your car collection. 
